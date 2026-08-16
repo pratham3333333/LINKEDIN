@@ -24,6 +24,8 @@
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/013fa966-2a96-4ba2-9dad-350f46f336c1" />
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/364808d1-7d89-4db8-ae21-20a6e659e518" />
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/3e255c15-8e31-4994-a061-8c0b2f61ec52" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/868104c7-c243-4228-b945-518c92962143" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/ceedb777-e126-427c-b21a-b4b57bad9959" />
 
 
 
